@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, por favor, cite-o conforme abaixo."
+authors:
+
+    family-names: De Almeida
+    given-names: Hugo
+    # orcid: https://orcid.org/0000-0000-0000-0000
+    title: "Multiplicação de Matriz 3x3 por 5"
+    version: 1.0.0
+    date-released: 2025-05-29
+    url: https://github.com/seuusuario/matriz3x3
+    license: MIT
