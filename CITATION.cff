@@ -1,12 +1,11 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "Se você utilizar este software, por favor, cite-o conforme abaixo."
 authors:
-
     family-names: De Almeida
     given-names: Hugo
     orcid: https://orcid.org/0009-0005-0827-2451
     title: "Multiplicação de Matriz 3x3 por 5"
-    version: 1.0.0
+    version: 1.0.3
     date-released: 2025-05-29
     url: https://github.com/hv90/ava-c-1
     license: MIT
