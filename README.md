@@ -1,5 +1,4 @@
-# Multiplicação de Matriz 3x3 por 5
-
+# Multiplicação de Matriz 3x3 por 5 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15542434.svg)](https://doi.org/10.5281/zenodo.15542434)
 Este projeto consiste em um programa simples em linguagem C que lê uma matriz 3x3 de números inteiros, multiplica cada elemento por 5 e exibe a matriz resultante.
 
 ## 📋 Descrição
