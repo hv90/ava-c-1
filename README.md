@@ -2,16 +2,29 @@
 
 Este projeto consiste em um programa simples em linguagem C que lê uma matriz 3x3 de números inteiros, multiplica cada elemento por 5 e exibe a matriz resultante.
 
-## 🚀 Como usar
+## 📋 Descrição
+
+O programa solicita ao usuário que insira os elementos de uma matriz 3x3, multiplica cada elemento por 5 utilizando uma abordagem iterativa, e exibe a matriz resultante no console.
+
+## 📂 Estrutura
+
+- `matriz.c` – arquivo com o código em C do algoritmo.
+
+## 🛠️ Tecnologias
+
+- **Linguagem:** C  
+- **Compilador recomendado:** GCC (ou compatível)
+
+## ▶️ Como executar
 
 1. **Compile o programa:**
-  ```sh
-  gcc -o matriz matriz.c
-  ```
+   ```sh
+   gcc -o matriz matriz.c
+   ```
 2. **Execute o programa:**
-  ```sh
-  ./matriz
-  ```
+   ```sh
+   ./matriz
+   ```
 3. **Insira os valores solicitados para preencher a matriz 3x3.**
 
 ## 📋 Exemplo de uso
